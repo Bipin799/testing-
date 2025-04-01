@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-hello thus is for testing
-=======
 hello this is for testing.
 added one line 
->>>>>>> Stashed changes
