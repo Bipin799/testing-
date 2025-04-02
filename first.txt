@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hy this is  first file on here 
-=======
 hello , i am looking for the  testing first time.
->>>>>>> main
